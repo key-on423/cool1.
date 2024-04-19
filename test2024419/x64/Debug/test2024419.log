@@ -1,0 +1,4 @@
+﻿  show.c
+C:\Users\35316\Desktop\.vs\test2024419\test2024419\show.c(26,3): warning C4013: “Sleep”未定义；假设外部返回 int
+C:\Users\35316\Desktop\.vs\test2024419\test2024419\show.c(27,3): warning C4013: “system”未定义；假设外部返回 int
+  test2024419.vcxproj -> C:\Users\35316\Desktop\.vs\test2024419\x64\Debug\test2024419.exe
