@@ -29,5 +29,6 @@ int main()
 	printf("%s\n", &arr1);
 	printf("%s\n", &arr3);
 	printf("%s\n", &arr5);
+	printf("I want to protect you forever.");
 	return 0;
 }
